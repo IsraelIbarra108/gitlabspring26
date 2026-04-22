@@ -178,7 +178,8 @@ int main(int argc, char *argv[])
 				break;
 			}
 			case 29:
-			{	abFun();
+			{	
+				abFun();
 				puts("room29");
 				break;
 			}
